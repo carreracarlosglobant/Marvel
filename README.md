@@ -41,6 +41,6 @@ _It was built with MVP architecture but adding a coordinator to manage the navig
 
 ## Licence 📄
 
-This project is under MIT licence - [LICENSE.md](LICENSE.md) for more detail
+This project is under MIT License - [LICENSE.md](LICENSE) for more detail
 
 ## Thanks for reading me 🎁
